@@ -9,9 +9,9 @@ body {
 	background-color: #ebebeb;
 	color: #777;
 	text-align: center;
-	width: 720px;
+	width: 495px;
 	position: relative;
-	right: -20px;
+	right: -35%;
 }
 
 header {
@@ -30,7 +30,7 @@ section {
 	text-align: center;
 	padding: 20px;
 	margin-bottom: 10px;
-	width: 50%;
+	width: 495px;
 	float: left;
 }
 
@@ -40,14 +40,14 @@ aside {
 	text-align: center;
 	padding: 20px;
 	margin-bottom: 10px;
-	width: 50%;
+	width: 495px;
 	height: 230px;
 	float: left;
 }
 
 footer {
 	padding: 20px;
-	margin-bottom: 10px;
+	margin-bottom: 50px;
 	clear: both;
 }
 
